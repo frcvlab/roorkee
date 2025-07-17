@@ -7,15 +7,15 @@ To identify the Irish contingent at Roorkee the original data pertaining to stud
 
 FILES: 
 
-uppersubordinate_wsurname.csv -- spreadsheet with names and ethnicities extracted as above for the upper subordinate class
+uppersubordinate_wsurname.csv -- spreadsheet with names and ethnicities extracted as above for the Upper Subordinate class
 
-engineer_class_wsurname.csv -- spreadsheet with names and ethnicities extracted as above for the engineer class
+engineer_class_wsurname.csv -- spreadsheet with names and ethnicities extracted as above for the Engineer class
 
-engineer surnames_wethnicity.json -- JSON format file with a list of names and ethnicites for those names  from Geanet for the engineer class
+engineer surnames_wethnicity.json -- JSON format file with a list of names and ethnicites for those names  from Geanet for the Engineer class
 
-surnames_wethnicity.json -- JSON format file with a list of names and ethnicites for those names  from Geanet for the uppersubordinate class
+surnames_wethnicity.json -- JSON format file with a list of names and ethnicites for those names  from Geanet for the Upper sSbordinate class
 
 RoorkeeNames.txt -- text file with an alphabetical list of names and ethnicities from the Upper Subordinate class
 
-Sample_of_RoorkeeNames.txt -- text file with an alphabetical list of names comoprising a random sample of 10% of RoorkeeNames.txt for testing against MacLysaght
+Sample_of_RoorkeeNames.txt -- text file with an alphabetical list of names comprising a random sample of 10% of RoorkeeNames.txt for testing against MacLysaght
 
